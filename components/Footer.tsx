@@ -19,9 +19,9 @@ export default function Footer() {
     >
       <div className="container footer-inner">
         <div>
-          <span className="footer-mark">
-            M.
-          </span>
+         <span className="footer-mark">
+  Shakibul<span>.</span>
+</span>
 
           <p>
             Md.Shakibul — Frontend Developer & Learner

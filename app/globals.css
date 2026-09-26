@@ -1245,10 +1245,14 @@ button {
 .footer-mark {
   display: block;
   margin-bottom: 8px;
-  font-size: 25px;
+  font-size: 32px;
   font-weight: 950;
+  letter-spacing: -0.06em;
 }
 
+.footer-mark span {
+  color: var(--secondary);
+}
 .footer-inner p,
 .footer-copy {
   color: var(--text-soft);
